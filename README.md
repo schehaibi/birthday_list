@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-you can see the result of code here:https://schehaibi.github.io/birthday_list/
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+you can see the result of code here:https://schehaibi.github.io/birthday_list/ \
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
